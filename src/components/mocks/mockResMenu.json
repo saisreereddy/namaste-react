@@ -1,0 +1,2196 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "502957",
+                            "name": "Andhra Gunpowder",
+                            "city": "Bangalore",
+                            "slugs": {
+                                "restaurant": "andhra-gunpowder-malleshwaram-malleshwaram",
+                                "city": "bangalore"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "bs9qgsy25pn07pzn6xx1",
+                            "locality": "Shivananda Circle",
+                            "areaName": "Seshadripuram",
+                            "costForTwo": "35000",
+                            "costForTwoMessage": "₹350 for two",
+                            "cuisines": [
+                                "Andhra",
+                                "Biryani"
+                            ],
+                            "avgRating": 4.4,
+                            "feeDetails": {
+                                "restaurantId": "502957",
+                                "fees": [
+                                    {
+                                        "name": "distance",
+                                        "fee": 4800
+                                    },
+                                    {
+                                        "name": "time"
+                                    },
+                                    {
+                                        "name": "special"
+                                    }
+                                ],
+                                "totalFee": 4800,
+                                "icon": "v1648208530/surgecreatives/info",
+                                "message": "Far (4.1 kms) | Additional delivery fee will apply"
+                            },
+                            "parentId": "10496",
+                            "avgRatingString": "4.4",
+                            "totalRatingsString": "1K+ ratings",
+                            "sla": {
+                                "restaurantId": "502957",
+                                "deliveryTime": 30,
+                                "minDeliveryTime": 30,
+                                "maxDeliveryTime": 30,
+                                "lastMileTravel": 4.2,
+                                "serviceability": "SERVICEABLE",
+                                "stressFactor": 1,
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_IT_IS_LONG_DISTANCE",
+                                "zoneId": 49,
+                                "slaString": "30 MINS",
+                                "lastMileTravelString": "4.1 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2024-01-11 01:00:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "FLAT100 off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "FLAT100 off | Use FLATDEAL",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off | Use PARTY",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FLAT100 off | Use FLATDEAL",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off | Use code PARTY",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "andhra-gunpowder-malleshwaram-malleshwaram",
+                            "multiOutlet": true,
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "No :- 5 Old No :- 28, 2nd Floor ,  Hare Krishna Road , Opp To Desai Hospital , Shivananda Circle ,Kumara Park East, Seshadripuram Bengaluru, Karnataka :- 560001"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Andhra,Biryani"
+                                }
+                            ],
+                            "totalRatings": 1000,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "FLAT100 off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "FLAT100 off | Use FLATDEAL",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off | Use PARTY",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "FLAT100 off | Use FLATDEAL",
+                                        "discountType": "Flat",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "20% off | Use code PARTY",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "nudgeBanners": [
+                                {
+                                    "minValue": 490,
+                                    "maxValue": 700,
+                                    "priority": 2,
+                                    "couponCode": "PARTY",
+                                    "discountInfo": {
+                                        "discountType": "Percentage",
+                                        "value": 20
+                                    },
+                                    "lockedMessage": "Add items worth ₹<amount> to unlock flat 20% off | Code PARTY",
+                                    "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 20% off",
+                                    "logoCtx": {}
+                                }
+                            ],
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/502957"
+                            },
+                            "expectationNotifiers": [
+                                {
+                                    "text": "Far (4.1 kms) | Additional delivery fee will apply",
+                                    "icon": {
+                                        "imageId": "v1648208530/surgecreatives/info"
+                                    },
+                                    "popup": {
+                                        "cta": {}
+                                    },
+                                    "type": "DISTANCE_FEE_NON_FOOD_LM",
+                                    "enrichedText": "<b>Far (4.1 kms)</b> | Additional delivery fee will apply",
+                                    "halfCardPopup": {
+                                        "halfCardPopupHeader": {}
+                                    }
+                                }
+                            ],
+                            "ratingSlab": "RATING_SLAB_5",
+                            "orderabilityCommunication": {
+                                "title": {},
+                                "subTitle": {},
+                                "message": {},
+                                "customIcon": {}
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "12.98681,77.579384"
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 3,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹100 OFF",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "1dc3caa6-5c42-4fee-97e3-4cfa9645e551"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE FLATDEAL",
+                                            "description": "ABOVE ₹349",
+                                            "offerType": "offers",
+                                            "restId": "502957",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT 20% OFF",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "ff0137ce-e763-4b61-8c63-5e66f66fed38"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE PARTY",
+                                            "description": "ABOVE ₹700",
+                                            "offerType": "offers",
+                                            "restId": "502957",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹120 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "rng/md/ads/production/32b9f8a87957f8c1ca369622f6a1ca77",
+                                            "offerIds": [
+                                                "0681e750-4d60-4066-9e7d-be11d720f180"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE AXIS120",
+                                            "description": "ABOVE ₹500",
+                                            "offerType": "offers",
+                                            "restId": "502957",
+                                            "offerLogo": "rng/md/ads/production/32b9f8a87957f8c1ca369622f6a1ca77",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {},
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Recommended",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114714190",
+                                                            "name": "Bhai Biryani - Khushka with Egg",
+                                                            "category": "Basmati Bhai Biryani - Tamil Edition",
+                                                            "description": "Serves 1 | Tamil Muslim Style Kushka (Non-Veg) cooked in Dum style with Long Grain Basmati rice and served with Raita.",
+                                                            "imageId": "a7nrsjbl9dcexqfqxztz",
+                                                            "inStock": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "127223417",
+                                                                    "groupName": "Biryani Add Ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "44096237",
+                                                                            "name": "Chicken Kebab (Full)",
+                                                                            "price": 24000,
+                                                                            "inStock": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096238",
+                                                                            "name": "Chicken Kebab (Half)",
+                                                                            "price": 12500,
+                                                                            "inStock": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096241",
+                                                                            "name": "Sweet Lassi",
+                                                                            "price": 5900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096242",
+                                                                            "name": "Dry Fruit Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "43298990",
+                                                                            "name": "Fresh Curd (200 ml)",
+                                                                            "price": 4100,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44691057",
+                                                                            "name": "Rabdi",
+                                                                            "price": 4900,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096240",
+                                                                            "name": "Ghee Gulab Jamun (2pcs)",
+                                                                            "price": 5000,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 7,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "10 ratings",
+                                                                    "ratingCountV2": "10"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114714192",
+                                                            "name": "Bhai Biryani Khushka with Egg - Family Pack (Serves 3-4)",
+                                                            "category": "Basmati Bhai Biryani - Tamil Edition",
+                                                            "description": "Serves 1 | Tamil Muslim Style Kushka (Non-Veg) cooked in Dum style with Long Grain Basmati rice and served with Raita.",
+                                                            "imageId": "a7nrsjbl9dcexqfqxztz",
+                                                            "inStock": 1,
+                                                            "price": 48900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114714193",
+                                                            "name": "Bhai Chicken Biryani and Chicken Kebab Combo",
+                                                            "category": "Basmati Bhai Biryani - Tamil Edition",
+                                                            "description": "Serves 1 | Bhai Chicken Biryani(Serves 1) + Fried Chicken Kebab.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):1988, Protein(g): 102, Carbohydrate(g): 135, Fat (g):116\"",
+                                                            "imageId": "coorechharrm7ix46doy",
+                                                            "inStock": 1,
+                                                            "price": 49900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395377",
+                                                            "name": "Fried Chicken Kebab(Boneless)",
+                                                            "category": "Starters",
+                                                            "description": "Serves 1 | Marinated chicken is coated in spicy masala and fried to perfection.\n\n\"Allergens : -\nNutritional information : Kcal(g):647, Protein(g): 25, Carbohydrate(g): 17, Fat (g):53\"",
+                                                            "imageId": "ytcezodswsdrejtgicwj",
+                                                            "inStock": 1,
+                                                            "price": 27900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "95 ratings",
+                                                                    "ratingCountV2": "95"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395387",
+                                                            "name": "Ghee Gulab Jamun (2 Pcs)",
+                                                            "category": "Desserts.",
+                                                            "description": "Serves 1 | Khoya rich dumplings are deep fried and then given a soaking in sugar syrup.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):426, Protein(g): 4, Carbohydrate(g): 41, Fat (g):27\"",
+                                                            "imageId": "i6wqvnqigzfkkbgxkvxp",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "27 ratings",
+                                                                    "ratingCountV2": "27"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395395",
+                                                            "name": "Rabdi",
+                                                            "category": "Desserts.",
+                                                            "description": "Serves 1 | Slow reduced sweetened milk.\n\n\"Allergens : -\nNutritional information : Kcal(g):1210, Protein(g): 26, Carbohydrate(g): 217, Fat (g):26\"",
+                                                            "imageId": "zews9mmyenswmczpraan",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "49 ratings",
+                                                                    "ratingCountV2": "49"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395390",
+                                                            "name": "Sweet Lassi",
+                                                            "category": "Beverages",
+                                                            "description": "Serves 1 | Classic Lassi - Chilled.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):223, Protein(g): 24, Carbohydrate(g): 22, Fat (g):5\"",
+                                                            "imageId": "gplhj8dthmmsvb4pybe9",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.8",
+                                                                    "ratingCount": "11 ratings",
+                                                                    "ratingCountV2": "11"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395392",
+                                                            "name": "Dry Fruit Lassi",
+                                                            "category": "Beverages",
+                                                            "description": "Serves 1 | Classic Lassi, blended with Dry Fruit.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):287, Protein(g): 25, Carbohydrate(g): 29, Fat (g):8\"",
+                                                            "imageId": "bhs9ipdh7qebylefiuyj",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "13 ratings",
+                                                                    "ratingCountV2": "13"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "type": "CATEGORY_TYPE_RECOMMENDED"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Andhra Bowls",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395418",
+                                                            "name": "Pappu Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Steamed Rice, Palak Pappu, Potato Fry, Papad and Fried Chilli.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):745, Protein(g): 18, Carbohydrate(g): 123, Fat (g):20\"",
+                                                            "imageId": "zbvjppwbrdwtg4f4wcjl",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "174 ratings",
+                                                                    "ratingCountV2": "174"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395419",
+                                                            "name": "Brinjal Curry Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Andhra Style Brinjal Curry, Steamed Rice, Potato Fry, Papad and Fried Chilli.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):882, Protein(g): 15, Carbohydrate(g): 118, Fat (g):39\"",
+                                                            "imageId": "vswzgkrxqi8rrunhfkpq",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 22900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "48 ratings",
+                                                                    "ratingCountV2": "48"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "99744483",
+                                                            "name": "Sambar Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Sambar, Steamed Rice, Potato Fry, Papad and Fried Chilli.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):844, Protein(g): 18, Carbohydrate(g): 127, Fat (g):29\"",
+                                                            "imageId": "h5prmmrimublerlo8g6z",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "37 ratings",
+                                                                    "ratingCountV2": "37"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "115989221",
+                                                            "name": "Curd And Poriyal Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Try our in creamy Curd and Rice paired with vegetable poriyal stir-fry. A light and refreshing all-inclusive Tamil-style meal served with avakai pickle, papad, fried crispy chilli, deep-fried crispy aloo and poriyal of the day.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):867, Protein(g): 47, Carbohydrate(g): 127, Fat (g):19\"",
+                                                            "imageId": "71015f621fcd581b4bcc6ebd7777d419",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "10 ratings",
+                                                                    "ratingCountV2": "10"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "129820368",
+                                                            "name": "Rasam and Poriyal Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Savour our tangy, peppery rasam mixed with white rice in a satisfying bowl served with a side of poriyal. A South Indian comfort food classic, now conveniently served together and accompanied by papad and fried chilli. Our Rasam and Poriyal Rice Bowl brings together two greats for a delightful, nostalgic meal.",
+                                                            "imageId": "acb9ecfc24c24c935a0c512df1e496c0",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 14900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395461",
+                                                            "name": "Andhra Gun Powder Khichdi",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Freshly Ground Kandi Podi (Gunpowder) is added to our khichdi Mix. This is a fun Andhra take. Served with Ghee, Aloo Chokha, Pickle, Papad and Curd.\n\n\"Allergens : -\nNutritional information : Kcal(g):492, Protein(g): 16, Carbohydrate(g): 47, Fat (g):27\"",
+                                                            "imageId": "5207769d61042eff6348c8bb3a15f20e",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "32 ratings",
+                                                                    "ratingCountV2": "32"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "104608637",
+                                                            "name": "Egg Curry Rice Bowl (Andhra Style)",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Boiled Eggs stewed in an Andhra-style onion tomato mix served with rice in an all-inclusive bowl.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):1036, Protein(g): 26, Carbohydrate(g): 118, Fat (g):51\"",
+                                                            "imageId": "rslioqyxekef1ypqo0ky",
+                                                            "inStock": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "35 ratings",
+                                                                    "ratingCountV2": "35"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395410",
+                                                            "name": "Andhra Chicken Curry Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Andhra Style Chicken Curry, Steamed Rice, Boiled Egg, Papad and Fried Chilli.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):1236, Protein(g): 51, Carbohydrate(g): 112, Fat (g):65\"",
+                                                            "imageId": "ylefe7hr3c2ku4hingbg",
+                                                            "inStock": 1,
+                                                            "price": 29800,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.8",
+                                                                    "ratingCount": "24 ratings",
+                                                                    "ratingCountV2": "24"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "131194583",
+                                                            "name": "Rasam Rice and Chicken Masala Fry Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Fragrant rice, drenched in tangy rasam. Accompanied by succulent, fiery Andhra-style chicken fry, papad, curd, fried curd chilli and crispy potato vepudu.",
+                                                            "imageId": "4cb5f6215b8fd94c12f04a394cb2c091",
+                                                            "inStock": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "131194584",
+                                                            "name": "Sambar Rice and Chicken Masala Fry Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | A comforting bowl of rice bathed in a hearty, vegetable-rich sambar, paired with a generous portion of spicy Chicken fry, curd, papad, potato vepudu and curd chilli.",
+                                                            "imageId": "d5af769a630d294bb3193bfef3709a4e",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "131194585",
+                                                            "name": "Rasam Rice and Bangalore Kebab Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Experience rasam poured over rice, paired with succulent Bangalore Chicken Kebab. The meal is balanced with cool Curd and served alongside crispy papad, potato vepudu and curd chilli.",
+                                                            "imageId": "da6d3b63a31976ded51bfffc0b26666a",
+                                                            "inStock": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "131194586",
+                                                            "name": "Sambar Rice and Bangalore Kebab Fry Rice Bowl",
+                                                            "category": "Andhra Bowls",
+                                                            "description": "Serves 1 | Indulge in the wholesome goodness of sambar rice, paired with Bangalore Chicken Kebab, curd, served with crunchy papad, potato vepudu and a spicy curd chilli.",
+                                                            "imageId": "14512fe9b4b10d8b629a1b51eefb4f44",
+                                                            "inStock": 1,
+                                                            "price": 21900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Basmati Bhai Biryani - Tamil Edition",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114714190",
+                                                            "name": "Bhai Biryani - Khushka with Egg",
+                                                            "category": "Basmati Bhai Biryani - Tamil Edition",
+                                                            "description": "Serves 1 | Tamil Muslim Style Kushka (Non-Veg) cooked in Dum style with Long Grain Basmati rice and served with Raita.",
+                                                            "imageId": "a7nrsjbl9dcexqfqxztz",
+                                                            "inStock": 1,
+                                                            "price": 19900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "127223417",
+                                                                    "groupName": "Biryani Add Ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "44096237",
+                                                                            "name": "Chicken Kebab (Full)",
+                                                                            "price": 24000,
+                                                                            "inStock": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096238",
+                                                                            "name": "Chicken Kebab (Half)",
+                                                                            "price": 12500,
+                                                                            "inStock": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096241",
+                                                                            "name": "Sweet Lassi",
+                                                                            "price": 5900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096242",
+                                                                            "name": "Dry Fruit Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "43298990",
+                                                                            "name": "Fresh Curd (200 ml)",
+                                                                            "price": 4100,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44691057",
+                                                                            "name": "Rabdi",
+                                                                            "price": 4900,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096240",
+                                                                            "name": "Ghee Gulab Jamun (2pcs)",
+                                                                            "price": 5000,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 7,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "10 ratings",
+                                                                    "ratingCountV2": "10"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114714192",
+                                                            "name": "Bhai Biryani Khushka with Egg - Family Pack (Serves 3-4)",
+                                                            "category": "Basmati Bhai Biryani - Tamil Edition",
+                                                            "description": "Serves 1 | Tamil Muslim Style Kushka (Non-Veg) cooked in Dum style with Long Grain Basmati rice and served with Raita.",
+                                                            "imageId": "a7nrsjbl9dcexqfqxztz",
+                                                            "inStock": 1,
+                                                            "price": 48900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114714193",
+                                                            "name": "Bhai Chicken Biryani and Chicken Kebab Combo",
+                                                            "category": "Basmati Bhai Biryani - Tamil Edition",
+                                                            "description": "Serves 1 | Bhai Chicken Biryani(Serves 1) + Fried Chicken Kebab.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):1988, Protein(g): 102, Carbohydrate(g): 135, Fat (g):116\"",
+                                                            "imageId": "coorechharrm7ix46doy",
+                                                            "inStock": 1,
+                                                            "price": 49900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114714194",
+                                                            "name": "Bhai Biryani - Khushka with Egg and Chicken Kebab Combo",
+                                                            "category": "Basmati Bhai Biryani - Tamil Edition",
+                                                            "description": "Serves 1 | Bhai Biryani - Khushka (Non-Veg) (Serves 1) + Fried Chicken Kebab.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):1294, Protein(g): 41, Carbohydrate(g): 135, Fat (g):66\"",
+                                                            "imageId": "81e581c53ad3d7c76cc97af114e116e3",
+                                                            "inStock": 1,
+                                                            "price": 35900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "127223418",
+                                                                    "groupName": "Biryani Add Ons",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "44096237",
+                                                                            "name": "Chicken Kebab (Full)",
+                                                                            "price": 24000,
+                                                                            "inStock": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096238",
+                                                                            "name": "Chicken Kebab (Half)",
+                                                                            "price": 12500,
+                                                                            "inStock": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096241",
+                                                                            "name": "Sweet Lassi",
+                                                                            "price": 5900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096242",
+                                                                            "name": "Dry Fruit Lassi",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "43298990",
+                                                                            "name": "Fresh Curd (200 ml)",
+                                                                            "price": 4100,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44691057",
+                                                                            "name": "Rabdi",
+                                                                            "price": 4900,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "44096240",
+                                                                            "name": "Ghee Gulab Jamun (2pcs)",
+                                                                            "price": 5000,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 7,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                                            "title": "Starters",
+                                            "categories": [
+                                                {
+                                                    "title": "Veg Starters",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "88395400",
+                                                                    "name": "Paneer Pakoda",
+                                                                    "category": "Starters",
+                                                                    "description": "Serves 1 | Soft Dairy fresh Paneer coated in a special batter and deep fried to golden brown.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):663, Protein(g): 17, Carbohydrate(g): 22, Fat (g):57\"",
+                                                                    "imageId": "jdpkkbqkdzzthiuuckqz",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 16900,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.5",
+                                                                            "ratingCount": "26 ratings",
+                                                                            "ratingCountV2": "26"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Non Veg Starters",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "121156719",
+                                                                    "name": "Chicken Vepudu",
+                                                                    "category": "Starters",
+                                                                    "description": "Serves 1 | Experience an Andhra's culinary joy! Succulent chicken bite size pieces, stir-fried to golden perfection in dry fiery spice and fresh herbs mix.\n\n\"Allergens : -\nNutritional information : Kcal(g):307, Protein(g): 42, Carbohydrate(g): 10, Fat (g):11\"",
+                                                                    "imageId": "d39c0e53bf864dc3a5846829c91e1b50",
+                                                                    "inStock": 1,
+                                                                    "price": 34900,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "NONVEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {}
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "88395377",
+                                                                    "name": "Fried Chicken Kebab(Boneless)",
+                                                                    "category": "Starters",
+                                                                    "description": "Serves 1 | Marinated chicken is coated in spicy masala and fried to perfection.\n\n\"Allergens : -\nNutritional information : Kcal(g):647, Protein(g): 25, Carbohydrate(g): 17, Fat (g):53\"",
+                                                                    "imageId": "ytcezodswsdrejtgicwj",
+                                                                    "inStock": 1,
+                                                                    "price": 27900,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "NONVEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {
+                                                                        "text": "Bestseller",
+                                                                        "textColor": "#ffffff",
+                                                                        "topBackgroundColor": "#d53d4c",
+                                                                        "bottomBackgroundColor": "#b02331"
+                                                                    },
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "isBestseller": true,
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.6",
+                                                                            "ratingCount": "95 ratings",
+                                                                            "ratingCountV2": "95"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Meals Add Ons",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395455",
+                                                            "name": "Pappu of the Day (350 ml)",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | Andhra style lentil slow cooked with green leafy spinach (Serves 2).\n\n\"Allergens : -\nNutritional information : Kcal(g):223, Protein(g): 8, Carbohydrate(g): 22, Fat (g):12\"",
+                                                            "imageId": "fwdqpxk6k3bcvtoircjm",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 12900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "156 ratings",
+                                                                    "ratingCountV2": "156"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395458",
+                                                            "name": "Vegetable Sambar (350 ml)",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | Lentil-based vegetables, cooked with in-house masala and tamarind(Serves 2).\n\n\"Allergens : -\nNutritional information : Kcal(g):349, Protein(g): 8, Carbohydrate(g): 26, Fat (g):24\"",
+                                                            "imageId": "k05pdjuqjh4azbyy8ddk",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "75 ratings",
+                                                                    "ratingCountV2": "75"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395456",
+                                                            "name": "Rasam (350 ml)",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | Functional Food using tamarind juice as a base, with the addition of turmeric, tomato, chilli pepper, pepper, garlic, cumin, curry leaves, mustard, coriander, asafoetida, sea salt, and water.\n\n\"Allergens : -\nNutritional information : Kcal(g):128, Protein(g): 4, Carbohydrate(g): 15, Fat (g):6\"",
+                                                            "imageId": "oabyrcankntimjumfksh",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "148 ratings",
+                                                                    "ratingCountV2": "148"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "104608635",
+                                                            "name": "Andhra Egg Curry (350 ml)",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | Boiled eggs stewed in an Andhra-style tomato onion gravy (350 ml).\n\n\"Allergens : Egg\nNutritional information : Kcal(g):575, Protein(g): 21, Carbohydrate(g): 16, Fat (g):47\"",
+                                                            "imageId": "cqgf6b0kr0ht5zptspgh",
+                                                            "inStock": 1,
+                                                            "price": 16500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.9",
+                                                                    "ratingCount": "13 ratings",
+                                                                    "ratingCountV2": "13"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395454",
+                                                            "name": "Guntur Chicken Dry (400 gms)",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | Juicy chicken cooked in spicy masala (Serves 2).\n\n\"Allergens : -\nNutritional information : Kcal(g):143, Protein(g): 7, Carbohydrate(g): 4, Fat (g):11\"",
+                                                            "imageId": "sgbkjpwknnnuxkcupywy",
+                                                            "inStock": 1,
+                                                            "price": 29900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "36 ratings",
+                                                                    "ratingCountV2": "36"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395452",
+                                                            "name": "Andhra Chicken Curry (400 ml)",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | Marinated chicken is made with a freshly ground tamarind masala (Serves 2).\n\n\"Allergens : -\nNutritional information : Kcal(g):1128, Protein(g): 58, Carbohydrate(g): 19, Fat (g):91\"",
+                                                            "imageId": "kmp3tquxjhq1ivyv7bss",
+                                                            "inStock": 1,
+                                                            "price": 29900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "NONVEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "26 ratings",
+                                                                    "ratingCountV2": "26"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "93770585",
+                                                            "name": "Plain Rice (Gunpowder, Ghee, Papad & Crispy Fried Curd Chilli )",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | Served with Ghee, Gunpowder, Papad & Fried Chilli (Serves 1).\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):780, Protein(g): 14, Carbohydrate(g): 133, Fat (g):21\"",
+                                                            "imageId": "vd1qcbt7dwyettvwyymj",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "191 ratings",
+                                                                    "ratingCountV2": "191"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395460",
+                                                            "name": "Fresh Curd (200 ml)",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | Creamy fresh curd (200 Ml).\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):145, Protein(g): 20, Carbohydrate(g): 8, Fat (g):4\"",
+                                                            "imageId": "zkaygnxsap6b9dbg01zz",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "56 ratings",
+                                                                    "ratingCountV2": "56"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395463",
+                                                            "name": "Extra Papad",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | \"Allergens : -\nNutritional information : Kcal(g):68, Protein(g): 2, Carbohydrate(g): 6, Fat (g):4\"",
+                                                            "imageId": "diglkpki32lznvw1vi1z",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "132 ratings",
+                                                                    "ratingCountV2": "132"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395409",
+                                                            "name": "Gunpowder (Kandi Podi) (200 gms)",
+                                                            "category": "Meals Add Ons",
+                                                            "description": "Serves 1 | \"Allergens : -\nNutritional information : Kcal(g):492, Protein(g): 16, Carbohydrate(g): 47, Fat (g):27\"",
+                                                            "imageId": "7e6b4346b5067bbd186723ffebab42d9",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 12900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.8",
+                                                                    "ratingCount": "26 ratings",
+                                                                    "ratingCountV2": "26"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Desserts.",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "117417563",
+                                                            "name": "Payasam (200gm)",
+                                                            "category": "Desserts.",
+                                                            "description": "Serves 1 | Payasam Of The Day.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):406, Protein(g): 9, Carbohydrate(g): 72, Fat (g):9\"",
+                                                            "imageId": "d3af1638b216b7dd27020a1d64a5adee",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "17 ratings",
+                                                                    "ratingCountV2": "17"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395387",
+                                                            "name": "Ghee Gulab Jamun (2 Pcs)",
+                                                            "category": "Desserts.",
+                                                            "description": "Serves 1 | Khoya rich dumplings are deep fried and then given a soaking in sugar syrup.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):426, Protein(g): 4, Carbohydrate(g): 41, Fat (g):27\"",
+                                                            "imageId": "i6wqvnqigzfkkbgxkvxp",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "27 ratings",
+                                                                    "ratingCountV2": "27"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395464",
+                                                            "name": "Ghee Gulab Jamun - 4 Pcs",
+                                                            "category": "Desserts.",
+                                                            "description": "Serves 1 | Khoya rich dumplings are deep fried and then given a soaking in sugar syrup.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):853, Protein(g): 8, Carbohydrate(g): 81, Fat (g):55\"",
+                                                            "imageId": "nwr4e3l5gdqh1lkffoyw",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 9900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.6",
+                                                                    "ratingCount": "12 ratings",
+                                                                    "ratingCountV2": "12"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "88395395",
+                                                            "name": "Rabdi",
+                                                            "category": "Desserts.",
+                                                            "description": "Serves 1 | Slow reduced sweetened milk.\n\n\"Allergens : -\nNutritional information : Kcal(g):1210, Protein(g): 26, Carbohydrate(g): 217, Fat (g):26\"",
+                                                            "imageId": "zews9mmyenswmczpraan",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "49 ratings",
+                                                                    "ratingCountV2": "49"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Healthy Beverages.",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "130874351",
+                                                            "name": "Masala Shikanji",
+                                                            "category": "Healthy Beverages.",
+                                                            "description": "Serves 1 | The perfect thirst quencher, get our tangy nimbu pani mixed with cooling spices (250ml)",
+                                                            "imageId": "95b0b1343e6fd975912b78a40c895c12",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 2900,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                                            "title": "Beverages",
+                                            "categories": [
+                                                {
+                                                    "title": "Healthy Lassi",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "88395390",
+                                                                    "name": "Sweet Lassi",
+                                                                    "category": "Beverages",
+                                                                    "description": "Serves 1 | Classic Lassi - Chilled.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):223, Protein(g): 24, Carbohydrate(g): 22, Fat (g):5\"",
+                                                                    "imageId": "gplhj8dthmmsvb4pybe9",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 6500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.8",
+                                                                            "ratingCount": "11 ratings",
+                                                                            "ratingCountV2": "11"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "88395392",
+                                                                    "name": "Dry Fruit Lassi",
+                                                                    "category": "Beverages",
+                                                                    "description": "Serves 1 | Classic Lassi, blended with Dry Fruit.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):287, Protein(g): 25, Carbohydrate(g): 29, Fat (g):8\"",
+                                                                    "imageId": "bhs9ipdh7qebylefiuyj",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 7900,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.7",
+                                                                            "ratingCount": "13 ratings",
+                                                                            "ratingCountV2": "13"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "88395393",
+                                                                    "name": "Mango Lassi",
+                                                                    "category": "Beverages",
+                                                                    "description": "Serves 1 | Classic lassi churned with mango pulp.\n\n\"Allergens : Dairy\nNutritional information : Kcal(g):195, Protein(g): 14, Carbohydrate(g): 29, Fat (g):3\"",
+                                                                    "imageId": "kp2fejjkf13mbmzxqqyr",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 7500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "3.2",
+                                                                            "ratingCount": "7 ratings",
+                                                                            "ratingCountV2": "7"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Soft Drinks",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "127923660",
+                                                                    "name": "Pepsi Pet Bottle-475 mL",
+                                                                    "category": "Beverages",
+                                                                    "description": "Serves 1",
+                                                                    "imageId": "5644a8e1c048e48f29892797742ec511",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 6000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.8",
+                                                                            "ratingCount": "6 ratings",
+                                                                            "ratingCountV2": "6"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 11221331001736"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Andhra Gunpowder",
+                                            "area": "Seshadripuram",
+                                            "completeAddress": "No :- 5 Old No :- 28, 2nd Floor ,  Hare Krishna Road , Opp To Desai Hospital , Shivananda Circle ,Kumara Park East, Seshadripuram Bengaluru, Karnataka :- 560001"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "c53a012d-dedb-4821-b4d4-f8ee03e69bf1",
+    "sid": "bifc34c2-5867-492b-a555-7ff7eb8441eb",
+    "deviceId": "83c872cc-5459-e247-c0da-d9cc49f0a21d",
+    "csrfToken": "llAGhCzcQtGg-SE3AEqYBA6u7iNtjK_K0GIQzXhw"
+}

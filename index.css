@@ -1,3 +1,93 @@
-#heading{
+/* #heading{
     color: red;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.footer {
+    display: flex;
+    border: 1px solid black;
+}
+
+.logo {
+    width: 200px
+}
+
+.nav-items > ul,
+.footer-items > ul {
+    font-size: 24px;
+    display: flex;
+    padding: 0px 20px;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.nav-items > ul  > li,
+.footer-items > ul  > li {
+    padding: 10px;
+    margin: 10px;
+}
+
+.res-card {
+    width: 200px;
+    height: auto;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.res-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.search {
+    padding: 10px;
+}
+
+.res-logo {
+    width: 100%;
+    height: 135px;
+}
+
+.res-card:hover {
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.filter-btn {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.shimmer-card{
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+    margin: 20px;
+}
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.login-btn {
+    padding: 0 20;
+    cursor: pointer;
+}
+
+.filter {
+    display: flex;
+}
+
+.res-container a {
+    text-decoration: none;
+    color: black;
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
