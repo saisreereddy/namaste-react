@@ -1,4 +1,4 @@
-# Namaste React
+# Namaste React: Swiggy Clone
 # https://github.com/namastedev/namaste-react/commit/c0db0f9bec7e4df3468a4763aaa5463f273d73e9
 # https://github.com/saisreereddy/namaste-react
 
